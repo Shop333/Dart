@@ -1,0 +1,6 @@
+{
+  "name": "BatikStore",
+  "description": "A premium Material 3 e-commerce app for fine Indonesian batik products, featuring local cart persistence and customizable products.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
